@@ -1,0 +1,14 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Node
+node_modules/
+
+# Результаты работы скрапера (в git не коммитятся по заданию)
+out/
+
+# Логи и прочее
+*.log
+.DS_Store
